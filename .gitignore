@@ -1,0 +1,7 @@
+.vscode/
+SystemSoftware/
+*.exe
+BOJ/Example/
+BOJ/output/
+BOJ/index.cpp
+BOJ/test.cpp

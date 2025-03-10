@@ -1,7 +1,9 @@
 .vscode/
 SystemSoftware/
 *.exe
+*.bin
 BOJ/Example/
 BOJ/output/
 BOJ/index.cpp
 BOJ/test.cpp
+BOJ/.cph/

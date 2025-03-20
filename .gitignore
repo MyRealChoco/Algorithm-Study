@@ -1,5 +1,6 @@
 .vscode/
 SystemSoftware/
+Algorithm/
 *.exe
 *.bin
 BOJ/Example/

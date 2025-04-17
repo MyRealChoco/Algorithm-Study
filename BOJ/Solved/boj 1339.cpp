@@ -9,7 +9,7 @@ using namespace std;
 */
 
 int n, a[26];
-vector<string> v;
+vector<string> v(10);
 vector<pair<int, int>> val;
 
 void chk() {
@@ -39,7 +39,6 @@ int calc() {
 
 void solve() {
     cin >> n;
-    v.resize(n);
     f(i, n) cin >> v[i];
 
     chk();

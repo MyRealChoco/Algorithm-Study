@@ -40,7 +40,6 @@ int calc() {
 void solve() {
     cin >> n;
     v.resize(n);
-
     f(i, n) cin >> v[i];
 
     chk();

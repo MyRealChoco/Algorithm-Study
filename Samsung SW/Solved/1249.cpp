@@ -62,7 +62,7 @@ int main(int argc, char** argv)
             cin >> s;
             f(j, n) m[i][j] = s[j]-'0';
         }
-        fill(&dp[0][0], &dp[n-1][n-1]+1, INT_MAX);
+        fill(&dp[0][0], &dp[n-1][n-1]+1, inf);
          
         bfs();
         cout << dp[n-1][n-1] << "\n";

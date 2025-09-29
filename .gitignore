@@ -3,6 +3,7 @@ SystemSoftware/
 Algorithm/
 *.exe
 *.bin
+BOJ/Saved/
 BOJ/Example/
 BOJ/output/
 BOJ/index.cpp

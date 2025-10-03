@@ -3,6 +3,11 @@
 #define ll long long
 using namespace std;
 
+/*
+    problem : boj 16938 (캠프 준비)
+    solved by : minwoo0629a
+*/
+
 int n, l, r, x, re;
 vector<int> v;
 

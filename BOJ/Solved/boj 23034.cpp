@@ -3,6 +3,11 @@
 #define f(a, b) for(int a=0; a<b; a++)
 using namespace std;
 
+/*
+    problem : boj 23034 (조별과제 멈춰!)
+    solved by : minwoo0629a
+*/
+
 int n, m, p[1001], mx, tot;
 bool visited[1001];
 vector<tuple<int, int, int>> v;

@@ -3,6 +3,11 @@
 #define f(a, b) for(int a=0; a<(b); a++)
 using namespace std;
 
+/*
+    problem : boj 23349 (졸업 사진)
+    solved by : minwoo0629a
+*/
+
 int n, s, e;
 string name, place;
 unordered_set<string> nm;
